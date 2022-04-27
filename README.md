@@ -1,2 +1,2 @@
 # hello-world
-This is repository for SWCON201 class of Kyunghee University. 
+This is repository for class(SWCON201: software development methodology and tools) of Kyunghee University. 
